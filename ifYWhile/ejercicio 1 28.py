@@ -1,0 +1,1 @@
+""" entero(lee(''Escriba el primer número: '')) """
